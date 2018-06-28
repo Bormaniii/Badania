@@ -2,10 +2,7 @@ import java.awt.Color;
 
 import javax.swing.*;
 
-/*Program do badania psychologicznego
- * Tworzy on osobne pliki tekstowe, aby rozróżnić badających oraz
- * zapisuje wszystkie ich wybory.
-*/
+
 public class Main {
 	static JFrame badania;
 	static String badany;
